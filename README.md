@@ -1,6 +1,6 @@
 [![Build Status](https://github.com/sheikhrashid786/startertheme?branch=main)]()
 
-_s
+_wordpress starter theme
 ===
 
 Hi. I'm a starter theme called.
@@ -21,7 +21,7 @@ Installation
 
 ### Requirements
 
-`_s` requires the following dependencies:
+`_wordpress starter theme` requires the following dependencies:
 
 - [Node.js](https://nodejs.org/)
 - [Composer](https://getcomposer.org/)
@@ -36,8 +36,7 @@ Clone or download this repository, change its name to something else (like, say,
 4. Search for <code>&nbsp;_s</code> (with a space before it) to capture DocBlocks and replace with: <code>&nbsp;Megatherium_is_Awesome</code>.
 5. Search for `_s-` to capture prefixed handles and replace with: `megatherium-is-awesome-`.
 6. Search for `_S_` (in uppercase) to capture constants and replace with: `MEGATHERIUM_IS_AWESOME_`.
-
-7.Builtin bootstrap 5.1.3 included
+7. Builtin bootstrap 5.1.3 included.
 
 Then, update the stylesheet header in `style.css`, the links in `footer.php` with your own information and rename `_s.pot` from `languages` folder to use the theme's slug. Next, update or delete this readme.
 
