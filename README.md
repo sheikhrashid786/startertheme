@@ -1,12 +1,9 @@
-[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
+[![Build Status](https://github.com/sheikhrashid786/startertheme?branch=main)]()
 
 _s
 ===
 
-Hi. I'm a starter theme called `_s`, or `underscores`, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
-
-My ultra-minimal CSS might make me look like theme tartare but that means less stuff to get in your way when you're designing your awesome theme. Here are some of the other more interesting things you'll find here:
-
+Hi. I'm a starter theme called.
 * A modern workflow with a pre-made command-line interface to turn your project into a more pleasant experience.
 * A just right amount of lean, well-commented, modern, HTML5 templates.
 * A custom header implementation in `inc/custom-header.php`. Just add the code snippet found in the comments of `inc/custom-header.php` to your `header.php` template.
@@ -39,6 +36,8 @@ Clone or download this repository, change its name to something else (like, say,
 4. Search for <code>&nbsp;_s</code> (with a space before it) to capture DocBlocks and replace with: <code>&nbsp;Megatherium_is_Awesome</code>.
 5. Search for `_s-` to capture prefixed handles and replace with: `megatherium-is-awesome-`.
 6. Search for `_S_` (in uppercase) to capture constants and replace with: `MEGATHERIUM_IS_AWESOME_`.
+
+7.Builtin bootstrap 5.1.3 included
 
 Then, update the stylesheet header in `style.css`, the links in `footer.php` with your own information and rename `_s.pot` from `languages` folder to use the theme's slug. Next, update or delete this readme.
 
